@@ -6,3 +6,4 @@ pyyaml
 requests
 stevedore
 simplejson
+pbr==0.10.8
